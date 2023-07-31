@@ -4,7 +4,6 @@
 * @a: array
 * Return: Always 0 (Success)
 */
-int _putchar(char c);
 void print_chessboard(char (*a)[8])
 {
 int i;
